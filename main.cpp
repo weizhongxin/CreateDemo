@@ -7,4 +7,5 @@ void Tet()
 }
 int main(void)
 {
+  std::<<"ksdfjlkdjs"<<endl;
 }
