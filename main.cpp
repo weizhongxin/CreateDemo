@@ -8,4 +8,5 @@ void Tet()
 int main(void)
 {
   std::<<"ksdfjlkdjs"<<endl;
+  cout <<"dsfsdfds"<<endl;
 }
