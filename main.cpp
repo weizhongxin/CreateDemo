@@ -3,7 +3,7 @@
 using namespace std;
 void Tet()
 {
-
+	cout << "Test....."<<endl;
 }
 int main(void)
 {
